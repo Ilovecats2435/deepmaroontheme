@@ -1,7 +1,7 @@
 {
   "name": "Deep Maroon",
   "description": "cool deep red theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     {
       "name": "Catkid",
@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [
-      "#3a3d43"
+      "#260303"
     ],
     "CHAT_BACKGROUND": [
       "#260303"
@@ -37,7 +37,7 @@
       "#260303"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#232428"
+      "#260303"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#FFFFFF12"
@@ -55,7 +55,7 @@
       "#260303"
     ],
     "BACKGROUND_SECONDARY": [
-      "#232428"
+      "#260303"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#260303"
@@ -70,13 +70,13 @@
       "#000000b2"
     ],
     "BG_BASE_SECONDARY": [
-      "#232428"
+      "#260303"
     ],
     "BG_BASE_TERTIARY": [
       "#260303"
     ],
     "HOME_BACKGROUND": [
-      "#232428"
+      "#260303"
     ],
     "BORDER_FAINT": [
       "#FFFFFF12"
@@ -91,7 +91,7 @@
       "#260303"
     ],
     "CARD_SECONDARY_BG": [
-      "#2b2d31"
+      "#660000"
     ],
     "CHANNELS_DEFAULT": [
       "#adadad"
@@ -133,7 +133,7 @@
       "#260303"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#232428"
+      "#260303"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#260303"
@@ -169,10 +169,10 @@
       "#260303"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#232428"
+      "#260303"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#232428"
+      "#260303"
     ],
     "POLLS_VICTOR_FILL": [
       "#3ba55d80"
@@ -211,13 +211,13 @@
       "#faa61a4d"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#3a3d43"
+      "#260303"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#3a3d43"
+      "#260303"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
@@ -266,13 +266,13 @@
     "PLUM_11": "#adadad",
     "PLUM_13": "#adadad",
     "PLUM_15": "#872626",
-    "PLUM_16": "#232428",
+    "PLUM_16": "#260303",
     "PLUM_17": "#260303",
     "PLUM_18": "#260303",
-    "PLUM_19": "#232428",
+    "PLUM_19": "#260303",
     "PLUM_20": "#260303",
-    "PLUM_21": "#232428",
-    "PLUM_22": "#232428",
+    "PLUM_21": "#260303",
+    "PLUM_22": "#260303",
     "PLUM_24": "#260303",
     "PLUM_25": "#260303",
     "PRIMARY_100": "#adadad",
@@ -281,16 +281,16 @@
     "PRIMARY_330": "#adadad",
     "PRIMARY_360": "#872626",
     "PRIMARY_400": "#872626",
-    "PRIMARY_460": "#232428",
+    "PRIMARY_460": "#260303",
     "PRIMARY_500": "#872626",
     "PRIMARY_530": "#872626",
     "PRIMARY_600": "#260303",
-    "PRIMARY_630": "#232428",
+    "PRIMARY_630": "#260303",
     "PRIMARY_645": "#260303",
-    "PRIMARY_660": "#232428",
+    "PRIMARY_660": "#260303",
     "PRIMARY_700": "#1a1b1e",
     "PRIMARY_730": "#adadad",
-    "PRIMARY_800": "#2b2d31",
+    "PRIMARY_800": "#660000",
     "GREEN_260": "#3ba55d",
     "GREEN_300": "#3ba55d",
     "GREEN_330": "#3ba55d",
