@@ -1,7 +1,7 @@
 {
   "name": "Deep Maroon",
   "description": "cool deep red theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "authors": [
     {
       "name": "Catkid",
@@ -94,10 +94,10 @@
       "#660000"
     ],
     "CHANNELS_DEFAULT": [
-      "#adadad"
+      "#7e2020"
     ],
     "CHANNEL_ICON": [
-      "#adadad"
+      "#7e2020"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#3c0606"
@@ -109,7 +109,7 @@
       "#adadad"
     ],
     "HEADER_SECONDARY": [
-      "#adadad"
+      "#7e2020"
     ],
     "INTERACTIVE_ACTIVE": [
       "#872626"
@@ -118,7 +118,7 @@
       "#872626"
     ],
     "INTERACTIVE_MUTED": [
-      "#adadad"
+      "#7e2020"
     ],
     "INTERACTIVE_NORMAL": [
       "#adadad"
@@ -148,7 +148,7 @@
       "#ed4245"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#adadad"
+      "#7e2020"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#adadad"
@@ -181,7 +181,7 @@
       "#872626"
     ],
     "TEXT_MUTED": [
-      "#adadad"
+      "#7e2020"
     ],
     "TEXT_NORMAL": [
       "#adadad"
@@ -190,7 +190,7 @@
       "#adadad"
     ],
     "TEXT_SECONDARY": [
-      "#000000"
+      "#260303"
     ],
     "BG_MOD_FAINT": [
       "#FFFFFF12"
@@ -261,10 +261,10 @@
     "PLUM_3": "#872626",
     "PLUM_4": "#adadad",
     "PLUM_6": "#adadad",
-    "PLUM_9": "#adadad",
-    "PLUM_10": "#adadad",
-    "PLUM_11": "#adadad",
-    "PLUM_13": "#adadad",
+    "PLUM_9": "#7e2020",
+    "PLUM_10": "#7e2020",
+    "PLUM_11": "#7e2020",
+    "PLUM_13": "#7e2020",
     "PLUM_15": "#872626",
     "PLUM_16": "#260303",
     "PLUM_17": "#260303",
@@ -275,7 +275,7 @@
     "PLUM_22": "#260303",
     "PLUM_24": "#260303",
     "PLUM_25": "#260303",
-    "PRIMARY_100": "#adadad",
+    "PRIMARY_100": "#7e2020",
     "PRIMARY_200": "#adadad",
     "PRIMARY_300": "#872626",
     "PRIMARY_330": "#adadad",
@@ -289,7 +289,7 @@
     "PRIMARY_645": "#260303",
     "PRIMARY_660": "#260303",
     "PRIMARY_700": "#1a1b1e",
-    "PRIMARY_730": "#adadad",
+    "PRIMARY_730": "#7e2020",
     "PRIMARY_800": "#660000",
     "GREEN_260": "#3ba55d",
     "GREEN_300": "#3ba55d",
@@ -355,8 +355,8 @@
     "YELLOW_660": "#faa61a",
     "YELLOW_700": "#faa61a",
     "WHITE_500": "#adadad",
-    "WHITE_630": "#adadad",
-    "ROLE_DEFAULT": "#adadad"
+    "WHITE_630": "#7e2020",
+    "ROLE_DEFAULT": "#7e2020"
   },
   "plus": {
     "version": "0",
