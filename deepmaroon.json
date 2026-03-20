@@ -21,6 +21,9 @@
     "BACKGROUND_FLOATING": [
       "#260303"
     ],
+    "SIDEBAR_COLOR": [
+      "#4f0000"
+    ],
     "BACKGROUND_MENTIONED": [
       "rgba(114,0,0,0.1)"
     ],
