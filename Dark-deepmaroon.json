@@ -1,7 +1,7 @@
 {
   "name": "Deep Maroon",
   "description": "cool deep red theme",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "authors": [
     {
       "name": "Catkid",
@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [
-      "#5b2a82"
+      "#260303"
     ],
     "CHAT_BACKGROUND": [
       "#260303"
